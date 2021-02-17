@@ -1,0 +1,78 @@
+body{
+    background-color: #add7f0;
+}
+html{font-size: 24px;
+}
+
+section{
+    margin-bottom: 100px;
+} 
+h1{
+    font-size: 1.75rem;
+    margin-bottom: .4em;
+    color: #0b2636;
+} 
+h2 {
+    font-size: 1.2rem;
+    margin-bottom: .4em;
+    color:#1d3e52;
+}
+
+h3 {
+    font-size: .6rem;
+    margin-bottom: .2em;
+    color:#3a7191;
+    font-weight: 400;
+}
+p {
+    margin-top: 0;
+    color: #1d3e52;
+}
+.styledFont {
+    font-family: 'Merriweather';
+}
+section.FontWeight p.Normal {
+    font-weight: normal;
+}
+section.FontWeight p.Bold {
+    font-weight: bold;
+}
+section.FontStyle p.Normal {
+    font-style: normal;
+}
+section.FontStyle p.Italic {
+    font-style: italic;
+}
+section.LetterSpacing p.Normal {
+    letter-spacing: normal;
+}
+section.LetterSpacing p.Wide {
+    letter-spacing: .3em;
+}
+section.LetterSpacing p.Narrow {
+    letter-spacing: -.06em;
+}
+section.TextDecoration p.None {
+    text-decoration: none;
+}
+section.TextDecoration p.Underline {
+    text-decoration: underline;
+}
+section.TextDecoration p.LineThrough {
+    text-decoration: line-through;
+}
+section.TextDecoration p.Overline {
+    text-decoration: overline;
+}
+section.TextTransform p.None {
+    text-transform: none;
+}
+section.TextTransform p.Uppercase {
+    text-transform: uppercase;
+}
+section.TextTransform p.Lowercase {
+    text-transform: lowercase;
+}
+section.TextTransform p.Capitalize {
+    text-transform: capitalize;
+}
