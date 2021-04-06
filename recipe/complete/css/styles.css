@@ -50,3 +50,26 @@ p{
         max-width: 100%;
     }
 }
+body{
+    background-color: #1f3d4d;
+    font-family: 'Montserrat', sans-serif;
+
+}
+h1{
+    color: #ffd4d7;
+}
+p{
+    color: white;
+}
+h2{
+    color: #fcf2d4;
+}
+h3{
+    color: #edfafc;
+}
+a:link{
+    color:#d4d4d4;
+}
+a:visited{
+    color:#d4d4d4;  
+}
