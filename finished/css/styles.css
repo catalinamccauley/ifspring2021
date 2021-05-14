@@ -1,0 +1,110 @@
+.safe-area{
+    margin:auto;
+}
+nav{
+    background-color: white;
+    margin-top: 0%;
+    height: fit-content;
+}
+nav ul{
+    float: center;
+}
+nav li{
+    display: inline-block;
+}
+nav li a{
+    display: block;
+    text-decoration: none;
+    padding: 10px 20px;
+    color: #045929; 
+}
+.general-image{
+    width: 400px;
+    height: 300px;
+    float: right;
+    margin: 0px 0px 25px 25px;
+}
+.home-image{
+    width: 1250px;
+    height: 650px;
+}
+.logo-image{
+    width: 300px;
+}
+.general-panel{
+    margin: auto;
+}
+.grid-flex{
+    margin-top: -21px;
+    display: flex;
+}
+
+.image-grid{
+    padding-left: 0;
+    padding-right: 23px;
+    list-style: none;
+}
+
+.image-grid li{
+    margin-bottom 22px;
+    display: flex;
+    margin-right: 30px;
+}
+
+#grid-image{
+    width: 200px;
+    height: 150px;
+    margin-bottom: 25px;
+}
+body{
+    background-color: white;
+}
+.general-panel p{
+    color: #045929;
+}
+.format-image{
+    width: 1250px;
+}
+.award-image{
+    width:1250px;
+}
+.jacket-image{
+    width: 400px;
+    height: 250px;
+    float: right;
+    margin: 0px 0px 25px 25px;
+}
+.trophy-image{
+    width: 400px;
+    height: 300px;
+    float: right;
+    margin: 0px 0px 25px 25px;
+}
+p{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: #045929;
+}
+h1{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+h3{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: #045929;
+}
+h2{
+    color: #045929;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
+.record-image{
+    width: 1250px;
+    height: 600px;
+}
+.winner-image{
+    width: 1250px;
+}
+.course-image{
+    width:1250px;
+}
+.amateurs-image{
+    width: 1250px;
+}
